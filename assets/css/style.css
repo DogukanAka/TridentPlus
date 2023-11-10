@@ -7515,3 +7515,22 @@ Privacy Policy Area Style
   color: #3921F5;
   font-size: 20px;
 }/*# sourceMappingURL=style.css.map */
+
+.features-list {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px; /* Biraz daha fazla boşluk ekledim */
+  color: #FFFFFF;
+}
+
+.feature-icon {
+  width: 45px; /* Özel bir boyut belirtin */
+  height: 45px; /* Özel bir boyut belirtin */
+  margin-right: 15px; /* İcon ile metin arasında biraz daha fazla boşluk bıraktım */
+}
+
