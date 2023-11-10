@@ -7534,3 +7534,10 @@ Privacy Policy Area Style
   margin-right: 15px; /* İcon ile metin arasında biraz daha fazla boşluk bıraktım */
 }
 
+.garanti-logo {
+  width: 30px; /* Özel bir boyut belirtin */
+  height: 30px; /* Özel bir boyut belirtin */
+  margin-right: 22px;
+  margin-left: 7px;
+}
+
